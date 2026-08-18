@@ -42,7 +42,7 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 
 | OS                                                                                                 | Description                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [FlareVM](https://github.com/mandiant/flare-vm) ⭐ 8,940 \| 🐛 28 \| 🌐 PowerShell \| 📅 2026-06-23 | Windows distribution for malware analysis and incident response.                                                                                                               |
+| [FlareVM](https://github.com/mandiant/flare-vm) ⭐ 8,941 \| 🐛 28 \| 🌐 PowerShell \| 📅 2026-06-23 | Windows distribution for malware analysis and incident response.                                                                                                               |
 | [Kali](https://www.kali.org/)                                                                      | Open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing.                                                   |
 | [Parrot](https://www.parrotsec.org/)                                                               | Parrot Security (ParrotOS, Parrot) is a Free and Open source GNU/Linux distribution based on Debian Stable designed for security experts, developers and privacy aware people. |
 | [REMnux](https://remnux.org/)                                                                      | Linux toolkit for reverse engineering malware.                                                                                                                                 |
@@ -53,18 +53,18 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 
 | Repository                                                                                                                  | Description                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [awesome-reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,506 \| 🐛 17 \| 📅 2023-08-19                       | A curated list of awesome reversing resources.                                                                                 |
-| [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,890 \| 🐛 68 \| 📅 2024-06-02                          | A list of hacking resources and tools: RE, web, forensics, etc.                                                                |
-| [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 28,129 \| 🐛 14 \| 📅 2026-08-03                                  | A curated list of amazingly awesome OSINT.                                                                                     |
-| [awesome-pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,922 \| 🐛 98 \| 📅 2026-07-25                              | A collection of awesome penetration testing resources, tools and other shiny things.                                           |
-| [awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) ⭐ 4,224 \| 🐛 10 \| 📅 2023-04-05        | A curated list of awesome social engineering resources.                                                                        |
-| [awesome-asset-discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) ⭐ 2,815 \| 🐛 20 \| 📅 2025-01-22         | List of Awesome Asset Discovery Resources.                                                                                     |
-| [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,332 \| 🐛 74 \| 📅 2026-07-15         | A curated list of tools for incident response.                                                                                 |
-| [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,059 \| 🐛 19 \| 📅 2023-12-28            | List of Awesome Red Teaming Resources.                                                                                         |
+| [awesome-reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,507 \| 🐛 17 \| 📅 2023-08-19                       | A curated list of awesome reversing resources.                                                                                 |
+| [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,895 \| 🐛 68 \| 📅 2024-06-02                          | A list of hacking resources and tools: RE, web, forensics, etc.                                                                |
+| [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 28,151 \| 🐛 2 \| 📅 2026-08-18                                   | A curated list of amazingly awesome OSINT.                                                                                     |
+| [awesome-pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,926 \| 🐛 99 \| 📅 2026-07-25                              | A collection of awesome penetration testing resources, tools and other shiny things.                                           |
+| [awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) ⭐ 4,226 \| 🐛 10 \| 📅 2023-04-05        | A curated list of awesome social engineering resources.                                                                        |
+| [awesome-asset-discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) ⭐ 2,816 \| 🐛 20 \| 📅 2025-01-22         | List of Awesome Asset Discovery Resources.                                                                                     |
+| [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,333 \| 🐛 74 \| 📅 2026-07-15         | A curated list of tools for incident response.                                                                                 |
+| [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,060 \| 🐛 19 \| 📅 2023-12-28            | List of Awesome Red Teaming Resources.                                                                                         |
 | [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,129 \| 🐛 25 \| 📅 2024-06-07           | A curated list of awesome malware analysis tools and resources.                                                                |
-| [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,581 \| 🐛 3 \| 📅 2026-02-20      | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc.                                                                          |
-| [awesome-forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,159 \| 🐛 6 \| 📅 2026-05-14                             | A curated list of awesome forensic analysis tools and resources                                                                |
-| [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,413 \| 🐛 14 \| 📅 2025-09-03                      | Tools for PCAP files                                                                                                           |
+| [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,582 \| 🐛 3 \| 📅 2026-02-20      | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc.                                                                          |
+| [awesome-forensics](https://github.com/cugu/awesome-forensics) ⭐ 5,161 \| 🐛 6 \| 📅 2026-05-14                             | A curated list of awesome forensic analysis tools and resources                                                                |
+| [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,415 \| 🐛 14 \| 📅 2025-09-03                      | Tools for PCAP files                                                                                                           |
 | [awesome-windows-post-exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation) ⭐ 544 \| 🐛 0 \| 📅 2025-09-07 | Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test. |
 
 ## Red Team
@@ -74,7 +74,7 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | Repository                                                                                                          | Description                                                        |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Amsi-Bypass-PowerShell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell) ⭐ 2,189 \| 🐛 0 \| 📅 2024-11-28 | AMSI bypasses (most are patched, but can be obfuscated to bypass). |
-| [AMSITrigger](https://github.com/RythmStick/AMSITrigger) ⭐ 1,413 \| 🐛 1 \| 🌐 C# \| 📅 2025-05-13                  | Finds which string(s) trigger AMSI.                                |
+| [AMSITrigger](https://github.com/RythmStick/AMSITrigger) ⭐ 1,414 \| 🐛 1 \| 🌐 C# \| 📅 2025-05-13                  | Finds which string(s) trigger AMSI.                                |
 | [chameleon](https://github.com/klezVirus/chameleon) ⭐ 604 \| 🐛 4 \| 🌐 Python \| 📅 2023-11-02                     | PowerShell script obfuscator.                                      |
 | [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell) ⭐ 1,338 \| 🐛 0 \| 🌐 C++ \| 📅 2019-08-19                   | Used to bypass PowerShell security (logging, AMSI, etc).           |
 | [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation>)                                         | PowerShell script obfuscator.                                      |
@@ -95,12 +95,12 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | [Hunter](https://hunter.io)                                                                             | Find company email format and list of employee email addresses.                                            |
 | [osintframework](https://osintframework.com/)                                                           | An online database of OSINT tools.                                                                         |
 | [PimEyes](https://pimeyes.com/)                                                                         | Reverse image lookup based on facial-recognition.                                                          |
-| [Recon-NG](https://github.com/lanmaster53/recon-ng) ⭐ 5,855 \| 🐛 38 \| 🌐 Python \| 📅 2024-11-01      | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc. |
+| [Recon-NG](https://github.com/lanmaster53/recon-ng) ⭐ 5,856 \| 🐛 38 \| 🌐 Python \| 📅 2024-11-01      | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc. |
 | [ScrapeIn](https://github.com/landoncrabtree/ScrapeIn) ⭐ 11 \| 🐛 0 \| 🌐 Python \| 📅 2022-12-26       | Scrapes LinkedIn to create a list of employee email addresses (for use in Initial Access).                 |
 | [SecurityTrails](https://securitytrails.com)                                                            | Extensive DNS information.                                                                                 |
 | [Shodan](https://shodan.io)                                                                             | Scans for all digital assets.                                                                              |
 | [SpiderFoot](https://spiderfoot.net)                                                                    | Automatic OSINT analysis.                                                                                  |
-| [TheHarvester](https://github.com/laramies/theHarvester) ⭐ 17,084 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-17 | Collects names, emails, IPs, and subdomains of a target.                                                   |
+| [TheHarvester](https://github.com/laramies/theHarvester) ⭐ 17,101 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-17 | Collects names, emails, IPs, and subdomains of a target.                                                   |
 
 ### Reconaissance
 
@@ -108,32 +108,32 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [altdns](https://github.com/infosec-au/altdns) ⭐ 2,503 \| 🐛 18 \| 🌐 Python \| 📅 2025-01-09               | Subdomain enumeration using mutated wordlists.                                                                      |
 | [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,473 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-10 | Enumerate AWS S3 buckets to find interesting files.                                                                 |
-| [CameRadar](https://github.com/Ullaakut/cameradar) ⭐ 5,168 \| 🐛 18 \| 🌐 Go \| 📅 2026-08-11               | Cameradar hacks its way into RTSP videosurveillance cameraa                                                         |
+| [CameRadar](https://github.com/Ullaakut/cameradar) ⭐ 5,167 \| 🐛 18 \| 🌐 Go \| 📅 2026-08-18               | Cameradar hacks its way into RTSP videosurveillance cameraa                                                         |
 | [CloudBrute](https://github.com/0xsha/CloudBrute) ⭐ 1,144 \| 🐛 0 \| 🌐 Go \| 📅 2025-03-09                 | Enumerates "the cloud" (Google, AWS, DigitalOcean, etc) to find infrastructure, files, and apps for a given target. |
 | [dirb](https://github.com/v0re/dirb)                                                                        | Web application directory / file fuzzer to find other pages.                                                        |
 | [DNSDumpster](https://dnsdumpster.com/)                                                                     | Online tool for DNS information of a domain.                                                                        |
-| [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,018 \| 🐛 44 \| 🌐 Rust \| 📅 2026-04-15           | Web application directory / file fuzzer to find other pages.                                                        |
-| [gobuster](https://github.com/OJ/gobuster) ⭐ 13,995 \| 🐛 21 \| 🌐 Go \| 📅 2026-08-13                      | Web application directory / file fuzzer to find other pages, and support for DNS and vhost fuzzing.                 |
-| [GoWitness](https://github.com/sensepost/gowitness) ⭐ 4,484 \| 🐛 35 \| 🌐 Go \| 📅 2026-04-22              | Screenshots webpages. Supports multi-domain lists and Nmap output.                                                  |
-| [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,931 \| 🐛 414 \| 🌐 C \| 📅 2026-04-23         | Like nmap, but faster (thus, not stealthy.)                                                                         |
-| [Nikto](https://github.com/sullo/nikto) ⭐ 10,661 \| 🐛 1 \| 🌐 Perl \| 📅 2026-08-17                        | Web server scanner to perform security checks on a web server.                                                      |
+| [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,019 \| 🐛 44 \| 🌐 Rust \| 📅 2026-04-15           | Web application directory / file fuzzer to find other pages.                                                        |
+| [gobuster](https://github.com/OJ/gobuster) ⭐ 13,997 \| 🐛 20 \| 🌐 Go \| 📅 2026-08-17                      | Web application directory / file fuzzer to find other pages, and support for DNS and vhost fuzzing.                 |
+| [GoWitness](https://github.com/sensepost/gowitness) ⭐ 4,485 \| 🐛 35 \| 🌐 Go \| 📅 2026-04-22              | Screenshots webpages. Supports multi-domain lists and Nmap output.                                                  |
+| [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,935 \| 🐛 414 \| 🌐 C \| 📅 2026-04-23         | Like nmap, but faster (thus, not stealthy.)                                                                         |
+| [Nikto](https://github.com/sullo/nikto) ⭐ 10,663 \| 🐛 1 \| 🌐 Perl \| 📅 2026-08-18                        | Web server scanner to perform security checks on a web server.                                                      |
 | [Nmap](https://nmap.org/)                                                                                   | Finds open ports on a network. Additionally can detect version, OS, and more.                                       |
-| [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 3,994 \| 🐛 14 \| 🌐 Python \| 📅 2026-04-21           | All-in-one reconaissance. port/service scans, dirbusting, and web application retrieval.                            |
-| [Recon-NG](https://github.com/lanmaster53/recon-ng) ⭐ 5,855 \| 🐛 38 \| 🌐 Python \| 📅 2024-11-01          | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.          |
-| [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,215 \| 🐛 8 \| 🌐 Go \| 📅 2026-08-12       | Passive subdomain discovery tool.                                                                                   |
+| [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 3,993 \| 🐛 14 \| 🌐 Python \| 📅 2026-04-21           | All-in-one reconaissance. port/service scans, dirbusting, and web application retrieval.                            |
+| [Recon-NG](https://github.com/lanmaster53/recon-ng) ⭐ 5,856 \| 🐛 38 \| 🌐 Python \| 📅 2024-11-01          | Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.          |
+| [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,222 \| 🐛 8 \| 🌐 Go \| 📅 2026-08-12       | Passive subdomain discovery tool.                                                                                   |
 | [wappalyzer](https://www.wappalyzer.com/)                                                                   | Identify what frameworks a website runs                                                                             |
-| [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,731 \| 🐛 0 \| 🌐 Ruby \| 📅 2026-07-23                  | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.            |
+| [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,731 \| 🐛 1 \| 🌐 Ruby \| 📅 2026-08-18                  | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.            |
 
 ### Social Engineering
 
 | Repository                                                                                                                          | Description                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [evilginx](https://github.com/kgretzky/evilginx2) ⭐ 15,494 \| 🐛 271 \| 🌐 Go \| 📅 2026-06-10                                      | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication |
+| [evilginx](https://github.com/kgretzky/evilginx2) ⭐ 15,499 \| 🐛 271 \| 🌐 Go \| 📅 2026-06-10                                      | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication |
 | [GoPhish](https://github.com/gophish/gophish>)                                                                                      | Phishing campaign framework to compromise user credentials.                                                                                                      |
 | [msfvenom](https://www.offsec.com/metasploit-unleashed/msfvenom/)                                                                   | Generate malicious payloads for social engineering (ie: VBA, .exe, etc)                                                                                          |
-| [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,202 \| 🐛 12 \| 🌐 Python \| 📅 2026-06-04 | Social engineering framework.                                                                                                                                    |
+| [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,203 \| 🐛 12 \| 🌐 Python \| 📅 2026-06-04 | Social engineering framework.                                                                                                                                    |
 | [SpoofCheck](https://github.com/BishopFox/spoofcheck)                                                                               | Checks if a domain can be spoofed.                                                                                                                               |
-| [zphisher](https://github.com/htr-tech/zphisher) ⭐ 16,634 \| 🐛 481 \| 🌐 HTML \| 📅 2024-08-21                                     | Phishing campaign framework to compromise user credentials.                                                                                                      |
+| [zphisher](https://github.com/htr-tech/zphisher) ⭐ 16,638 \| 🐛 481 \| 🌐 HTML \| 📅 2024-08-21                                     | Phishing campaign framework to compromise user credentials.                                                                                                      |
 
 ### Leaked Credentials
 
@@ -152,16 +152,16 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | [Caido](https://caido.io/)                                                                                                              | Full web testing suite, including proxied requests. (Like Burp but written in Rust)                      |
 | [dirb](https://github.com/v0re/dirb)                                                                                                    | Web application directory/file fuzzer.                                                                   |
 | [dotGit](https://github.com/davtur19/DotGit) ⭐ 480 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-07-31                                            | A Firefox and Chrome extension that shows you if there is an exposed `.git` directory                    |
-| [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,018 \| 🐛 44 \| 🌐 Rust \| 📅 2026-04-15                                       | Web application directory/file fuzzer.                                                                   |
+| [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,019 \| 🐛 44 \| 🌐 Rust \| 📅 2026-04-15                                       | Web application directory/file fuzzer.                                                                   |
 | [flask-unsign](https://github.com/Paradoxis/Flask-Unsign) ⭐ 661 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-03                                   | Decode, bruteforce, and craft Flask session tokens.                                                      |
-| [gobuster](https://github.com/OJ/gobuster) ⭐ 13,995 \| 🐛 21 \| 🌐 Go \| 📅 2026-08-13                                                  | Web application directory/file/DNS/vhost fuzzing.                                                        |
-| [Nikto](https://github.com/sullo/nikto) ⭐ 10,661 \| 🐛 1 \| 🌐 Perl \| 📅 2026-08-17                                                    | Web server scanner to perform security checks on a web server.                                           |
-| [nosqlmap](https://github.com/codingo/NoSQLMap) ⭐ 3,341 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-28                                           | Performs automated NoSQL injection tests.                                                                |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master) ⭐ 80,108 \| 🐛 34 \| 🌐 Python \| 📅 2026-08-09 | Useful payloads for a variety of attacks such as SQLi, IDOR, XSS, etc.                                   |
-| [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,202 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-17                                       | Performs automated SQL injection tests.                                                                  |
+| [gobuster](https://github.com/OJ/gobuster) ⭐ 13,997 \| 🐛 20 \| 🌐 Go \| 📅 2026-08-17                                                  | Web application directory/file/DNS/vhost fuzzing.                                                        |
+| [Nikto](https://github.com/sullo/nikto) ⭐ 10,663 \| 🐛 1 \| 🌐 Perl \| 📅 2026-08-18                                                    | Web server scanner to perform security checks on a web server.                                           |
+| [nosqlmap](https://github.com/codingo/NoSQLMap) ⭐ 3,342 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-28                                           | Performs automated NoSQL injection tests.                                                                |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master) ⭐ 80,139 \| 🐛 34 \| 🌐 Python \| 📅 2026-08-09 | Useful payloads for a variety of attacks such as SQLi, IDOR, XSS, etc.                                   |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,205 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-18                                       | Performs automated SQL injection tests.                                                                  |
 | [w3af](https://w3af.org/)                                                                                                               | Web application attack and audit framework.                                                              |
 | [wappalyzer](https://www.wappalyzer.com/)                                                                                               | Identify what frameworks a website runs.                                                                 |
-| [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,731 \| 🐛 0 \| 🌐 Ruby \| 📅 2026-07-23                                              | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities. |
+| [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,731 \| 🐛 1 \| 🌐 Ruby \| 📅 2026-08-18                                              | Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities. |
 
 ### Wireless
 
@@ -169,20 +169,20 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [Aircrack-ng](https://www.aircrack-ng.org)                                                                 | Aircrack-ng is a complete suite of tools to assess WiFi network security.                                                         |
 | [Kismet](https://www.kismetwireless.net/)                                                                  | sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more                                                     |
-| [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) ⭐ 1,975 \| 🐛 23 \| 🌐 C \| 📅 2025-10-31             | Reaver implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases |
+| [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) ⭐ 1,977 \| 🐛 23 \| 🌐 C \| 📅 2025-10-31             | Reaver implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases |
 | [Wifite](https://www.kali.org/tools/wifite/)                                                               | Python script to automate wireless auditing using aircrack-ng tools                                                               |
-| [WifiPhisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,772 \| 🐛 353 \| 🌐 Python \| 📅 2026-05-22 | The Rogue Access Point Framework                                                                                                  |
+| [WifiPhisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,773 \| 🐛 353 \| 🌐 Python \| 📅 2026-05-22 | The Rogue Access Point Framework                                                                                                  |
 
 ### Initial Access
 
 | Repository                                                                                                       | Description                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) ⭐ 385 \| 🐛 11 \| 🌐 Shell \| 📅 2020-01-29        | Automatic Metasploit payload generator and shell listener.                                                                                      |
-| [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,001 \| 🐛 320 \| 🌐 Python \| 📅 2026-08-14          | A tool to perform Kerberos pre-auth bruteforcing (ASREP roast) via GetNPUsers.py                                                                |
-| [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,418 \| 🐛 44 \| 🌐 Go \| 📅 2024-08-20                        | A tool to perform Kerberos pre-auth bruteforcing (ASREP roast)                                                                                  |
+| [Easysploit](https://github.com/KALILINUXTRICKSYT/easysploit) ⭐ 384 \| 🐛 11 \| 🌐 Shell \| 📅 2020-01-29        | Automatic Metasploit payload generator and shell listener.                                                                                      |
+| [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,010 \| 🐛 320 \| 🌐 Python \| 📅 2026-08-14          | A tool to perform Kerberos pre-auth bruteforcing (ASREP roast) via GetNPUsers.py                                                                |
+| [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,419 \| 🐛 44 \| 🌐 Go \| 📅 2024-08-20                        | A tool to perform Kerberos pre-auth bruteforcing (ASREP roast)                                                                                  |
 | [Medusa](https://github.com/jmk-foofus/medusa) ⭐ 881 \| 🐛 15 \| 🌐 C \| 📅 2025-05-14                           | Bruteforcer with multiple protocol support.                                                                                                     |
-| [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 38,817 \| 🐛 612 \| 🌐 Ruby \| 📅 2026-08-17      | Exploit framework that can be used for intial access and/or post-exploitation.                                                                  |
-| [NetExec](https://github.com/Pennyw0rth/NetExec) ⭐ 5,789 \| 🐛 164 \| 🌐 Python \| 📅 2026-08-16                 | Bruteforce common Windows protocols (WinRM, LDAP, RDP, SMB, WMI, etc.). Try username `null or ''` and password `''` for unauthenticated access. |
+| [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 38,826 \| 🐛 613 \| 🌐 Ruby \| 📅 2026-08-17      | Exploit framework that can be used for intial access and/or post-exploitation.                                                                  |
+| [NetExec](https://github.com/Pennyw0rth/NetExec) ⭐ 5,793 \| 🐛 164 \| 🌐 Python \| 📅 2026-08-16                 | Bruteforce common Windows protocols (WinRM, LDAP, RDP, SMB, WMI, etc.). Try username `null or ''` and password `''` for unauthenticated access. |
 | [Searchsploit](https://gitlab.com/exploit-database/exploitdb)                                                    | Search ExploitDB for exploits.                                                                                                                  |
 | [TeamFiltration](https://github.com/Flangvik/TeamFiltration) ⭐ 1,398 \| 🐛 5 \| 🌐 C# \| 📅 2026-03-09           | Cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts                                             |
 | [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,160 \| 🐛 48 \| 🌐 C \| 📅 2026-07-30               | Bruteforcer with multiple protocol support.                                                                                                     |
@@ -196,7 +196,7 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [Cobalt Strike](https://www.cobaltstrike.com/)                                                  | Most robust and advanced C2 framework (also paid). |
 | [Pupy](https://github.com/n1nj4sec/pupy) ⚠️ Archived                                            | Python and C C2 framework.                         |
-| [Sliver](https://github.com/BishopFox/sliver) ⭐ 11,688 \| 🐛 225 \| 🌐 Go \| 📅 2026-08-17      | Go C2 framework.                                   |
+| [Sliver](https://github.com/BishopFox/sliver) ⭐ 11,695 \| 🐛 222 \| 🌐 Go \| 📅 2026-08-18      | Go C2 framework.                                   |
 | [Villain](https://github.com/t3l3machus/Villain) ⭐ 4,430 \| 🐛 26 \| 🌐 Python \| 📅 2025-05-21 | Python and Powershell C2 framework.                |
 
 ### Post Exploitation
@@ -205,11 +205,11 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 
 | Repository                                                                                                   | Description                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,602 \| 🐛 93 \| 🌐 PowerShell \| 📅 2026-03-02 | Active Directory visualizer, useful for finding misconfigurations and/or shortest path to Domain Admin.                                                                               |
+| [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,601 \| 🐛 93 \| 🌐 PowerShell \| 📅 2026-03-02 | Active Directory visualizer, useful for finding misconfigurations and/or shortest path to Domain Admin.                                                                               |
 | [BloodHound.py](https://github.com/dirkjanm/BloodHound.py) ⭐ 2,431 \| 🐛 32 \| 🌐 Python \| 📅 2025-10-24    | Remote Python data ingestor for BloodHound.                                                                                                                                           |
-| [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,001 \| 🐛 320 \| 🌐 Python \| 📅 2026-08-14      | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.                                                                       |
-| [Mimikatz](https://github.com/ParrotSec/mimikatz) ⭐ 2,614 \| 🐛 12 \| 🌐 YARA \| 📅 2024-06-28               | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.                                                    |
-| [nishang](https://github.com/samratashok/nishang) ⭐ 10,057 \| 🐛 22 \| 🌐 PowerShell \| 📅 2024-04-25        | Offensive PowerShell for red team, penetration testing and offensive security.                                                                                                        |
+| [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,010 \| 🐛 320 \| 🌐 Python \| 📅 2026-08-14      | A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.                                                                       |
+| [Mimikatz](https://github.com/ParrotSec/mimikatz) ⭐ 2,616 \| 🐛 12 \| 🌐 YARA \| 📅 2024-06-28               | Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.                                                    |
+| [nishang](https://github.com/samratashok/nishang) ⭐ 10,056 \| 🐛 22 \| 🌐 PowerShell \| 📅 2024-04-25        | Offensive PowerShell for red team, penetration testing and offensive security.                                                                                                        |
 | [PowerHub](https://github.com/AdrianVollmer/PowerHub) ⭐ 832 \| 🐛 0 \| 🌐 PowerShell \| 📅 2026-05-01        | Post-exploitation module for bypassing endpoint protection and running arbitrary files.                                                                                               |
 | [PowerSploit](https://github.com/AdrianVollmer/PowerSploit) ⭐ 23 \| 🐛 7 \| 🌐 PowerShell \| 📅 2022-12-27   | A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.                                                                                  |
 | [SharpHound](https://github.com/BloodHoundAD/SharpHound) ⭐ 1,328 \| 🐛 38 \| 🌐 C# \| 📅 2026-08-11          | C# data ingestor for BloodHound. (Recommend [SharpHound.ps1](https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.ps1) for Bloodhound Kali version) |
@@ -222,8 +222,8 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [BeRoot](https://github.com/AlessandroZ/BeRoot) ⭐ 2,619 \| 🐛 6 \| 🌐 Python \| 📅 2024-10-04                  | Automated Windows, Linux, and Mac privilege escalation path discovery tool.                    |
 | [GTFOBins](https://gtfobins.github.io/)                                                                        | Unix binaries that can be used to bypass local security restrictions in misconfigured systems. |
-| [Invoke-PrivescCheck](https://github.com/itm4n/PrivescCheck) ⭐ 3,911 \| 🐛 2 \| 🌐 PowerShell \| 📅 2026-07-15 | Automated Windows privilege escalation path discovery tool.                                    |
-| [PEASS-ng](https://github.com/carlospolop/PEASS-ng) ⭐ 20,332 \| 🐛 2 \| 🌐 C# \| 📅 2026-08-17                 | Automated Windows, Linux, and Mac privilege escalation path discovery tool.                    |
+| [Invoke-PrivescCheck](https://github.com/itm4n/PrivescCheck) ⭐ 3,913 \| 🐛 2 \| 🌐 PowerShell \| 📅 2026-07-15 | Automated Windows privilege escalation path discovery tool.                                    |
+| [PEASS-ng](https://github.com/carlospolop/PEASS-ng) ⭐ 20,336 \| 🐛 2 \| 🌐 C# \| 📅 2026-08-17                 | Automated Windows, Linux, and Mac privilege escalation path discovery tool.                    |
 | [PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1) ⚠️ Archived          | Automated Windows privilege escalation path discovery tool.                                    |
 
 ### Exfiltration
@@ -242,8 +242,8 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [certsync](https://github.com/zblurx/certsync) ⭐ 649 \| 🐛 4 \| 🌐 Python \| 📅 2024-03-20              | Dump NTDS with golden certificates and UnPAC the hash                        |
 | [Dumpert](https://github.com/outflanknl/Dumpert) ⭐ 1,595 \| 🐛 6 \| 🌐 C \| 📅 2021-01-05               | LSASS memory dumper using direct system calls and API unhooking.             |
-| [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,001 \| 🐛 320 \| 🌐 Python \| 📅 2026-08-14 | Dump domain credentials via DCSync or from NTDS.DIT/SAM with secretsdump.py. |
-| [Mimikatz](https://github.com/ParrotSec/mimikatz) ⭐ 2,614 \| 🐛 12 \| 🌐 YARA \| 📅 2024-06-28          | Dump local and domain credentials with sekurlsa, lsadump modules.            |
+| [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,010 \| 🐛 320 \| 🌐 Python \| 📅 2026-08-14 | Dump domain credentials via DCSync or from NTDS.DIT/SAM with secretsdump.py. |
+| [Mimikatz](https://github.com/ParrotSec/mimikatz) ⭐ 2,616 \| 🐛 12 \| 🌐 YARA \| 📅 2024-06-28          | Dump local and domain credentials with sekurlsa, lsadump modules.            |
 
 ### Password Cracking
 
@@ -276,13 +276,13 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | Repository                                                                                           | Description                                                                                                             |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [Angle-Grinder](https://github.com/rcoh/angle-grinder) ⭐ 3,750 \| 🐛 28 \| 🌐 Rust \| 📅 2026-02-05  | Parse, aggregate, sum, average, min/max, percentile, and sort log files.                                                |
-| [Autopsy](https://github.com/sleuthkit/autopsy) ⭐ 3,285 \| 🐛 398 \| 🌐 Java \| 📅 2026-06-20        | Investigate disk images.                                                                                                |
+| [Autopsy](https://github.com/sleuthkit/autopsy) ⭐ 3,289 \| 🐛 398 \| 🌐 Java \| 📅 2026-06-20        | Investigate disk images.                                                                                                |
 | [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)                        | Show persistence on Windows                                                                                             |
-| [Chainsaw](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,632 \| 🐛 4 \| 🌐 Rust \| 📅 2026-08-04   | Parse and threat hunt Windows EVTX files.                                                                               |
+| [Chainsaw](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,633 \| 🐛 4 \| 🌐 Rust \| 📅 2026-08-04   | Parse and threat hunt Windows EVTX files.                                                                               |
 | [FTK Imager](https://www.exterro.com/ftk-imager)                                                     | Investigate disk images.                                                                                                |
 | [KnockKnock](https://objective-see.org/products/knockknock.html)                                     | Show persistence on macOS                                                                                               |
-| [Magika](https://github.com/google/magika) ⭐ 17,955 \| 🐛 161 \| 🌐 Python \| 📅 2026-08-15          | Detect file content types with deep learning.                                                                           |
-| [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,182 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-17 | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries. |
+| [Magika](https://github.com/google/magika) ⭐ 17,955 \| 🐛 162 \| 🌐 Python \| 📅 2026-08-15          | Detect file content types with deep learning.                                                                           |
+| [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,185 \| 🐛 69 \| 🌐 Go \| 📅 2026-08-18 | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries. |
 | [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived                         | Analyze memory dump files.                                                                                              |
 | [ZimmermanTools](https://ericzimmerman.github.io)                                                    | Eric Zimmerman's toolset for Windows forensics: EVTX, registry, ShellBags, ShimCache, and more.                         |
 
@@ -301,7 +301,7 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | [de4dot-cex](https://github.com/ViRb3/de4dot-cex) ⚠️ Archived                                                                    | ConfuserEx unpacker.                                   |
 | [de4dot](https://github.com/de4dot/de4dot) ⚠️ Archived                                                                           | .NET deobfuscator and unpacker.                        |
 | [deobfuscate.io](https://deobfuscate.io/)                                                                                        | Javascript deobfuscator.                               |
-| [FLOSS](https://github.com/mandiant/flare-floss) ⭐ 4,121 \| 🐛 116 \| 🌐 Python \| 📅 2026-08-17                                 | Automatically extract obfuscated strings from malware. |
+| [FLOSS](https://github.com/mandiant/flare-floss) ⭐ 4,122 \| 🐛 119 \| 🌐 Python \| 📅 2026-08-18                                 | Automatically extract obfuscated strings from malware. |
 | [NoFuserEx](https://github.com/undebel/NoFuserEx) ⭐ 425 \| 🐛 13 \| 🌐 C# \| 📅 2025-11-27                                       | ConfuserEx unpacker.                                   |
 | [Packer-specific Unpackers](https://github.com/NotPrab/.NET-Deobfuscator/blob/master/README.md) ⭐ 1,511 \| 🐛 1 \| 📅 2025-02-01 | List of unpackers for specific packers.                |
 | [PSDecode](https://github.com/R3MRUM/PSDecode) ⭐ 437 \| 🐛 3 \| 🌐 PowerShell \| 📅 2021-02-04                                   | PowerShell deobfuscator.                               |
@@ -312,7 +312,7 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 
 | Repository                                                                                                             | Description                                                |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,581 \| 🐛 3 \| 📅 2026-02-20 | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc.      |
+| [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,582 \| 🐛 3 \| 📅 2026-02-20 | A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc.      |
 | [Binary Ninja](https://binary.ninja/)                                                                                  | Decompiler, disassembler, and debugger GUI.                |
 | [Cerberus](https://github.com/h311d1n3r/Cerberus) ⭐ 406 \| 🐛 2 \| 🌐 C++ \| 📅 2025-01-25                             | Unstrips Rust and Go binaries.                             |
 | [cutter](https://github.com/rizinorg/cutter) ⭐ 19,471 \| 🐛 492 \| 🌐 C++ \| 📅 2026-08-13                             | Decompiler, disassembler, and debugger GUI based on Rizin. |
@@ -320,30 +320,30 @@ Contributions are welcome! The goal of this repository is to be an up-to-date so
 | [dotPeak](https://www.jetbrains.com/decompiler/)                                                                       | .NET Decompiler and assembly browser                       |
 | [GDB](https://www.sourceware.org/gdb/)                                                                                 | CLI debugger for Linux executables.                        |
 | [GEF](https://github.com/hugsy/gef) ⭐ 8,318 \| 🐛 16 \| 🌐 Python \| 📅 2026-06-16                                     | GDB addon with advanced features.                          |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,435 \| 🐛 1,913 \| 🌐 Java \| 📅 2026-08-17            | Decompiler and disassembler GUI.                           |
-| [JADX](https://github.com/skylot/jadx) ⭐ 50,095 \| 🐛 443 \| 🌐 Java \| 📅 2026-08-05                                  | JAR, APK, DEX, AAR, AAB, and ZIP decompiler.               |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,481 \| 🐛 1,913 \| 🌐 Java \| 📅 2026-08-17            | Decompiler and disassembler GUI.                           |
+| [JADX](https://github.com/skylot/jadx) ⭐ 50,117 \| 🐛 443 \| 🌐 Java \| 📅 2026-08-05                                  | JAR, APK, DEX, AAR, AAB, and ZIP decompiler.               |
 | [IDA](https://www.hex-rays.com/products/ida/index.shtml)                                                               | Decompiler and disassembler GUI.                           |
 | [OllyDbg](https://www.ollydbg.de/)                                                                                     | GUI debugger for Windows executables.                      |
-| [pycdc](https://github.com/zrax/pycdc) ⭐ 4,579 \| 🐛 234 \| 🌐 C++ \| 📅 2026-04-07                                    | Decompile .pyc files into Python source code.              |
-| [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) ⭐ 4,437 \| 🐛 21 \| 🌐 Python \| 📅 2026-07-22    | Extract .pyc files from PyInstaller compiled executables.  |
+| [pycdc](https://github.com/zrax/pycdc) ⭐ 4,580 \| 🐛 234 \| 🌐 C++ \| 📅 2026-04-07                                    | Decompile .pyc files into Python source code.              |
+| [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) ⭐ 4,438 \| 🐛 21 \| 🌐 Python \| 📅 2026-07-22    | Extract .pyc files from PyInstaller compiled executables.  |
 | [redress](https://github.com/goretk/redress) ⭐ 1,183 \| 🐛 5 \| 🌐 Go \| 📅 2026-08-15                                 | Analyzes stripped Go binaries.                             |
-| [rizin](https://github.com/rizinorg/rizin) ⭐ 3,781 \| 🐛 539 \| 🌐 C \| 📅 2026-08-17                                  | Disassembler and debugger CLI.                             |
+| [rizin](https://github.com/rizinorg/rizin) ⭐ 3,784 \| 🐛 540 \| 🌐 C \| 📅 2026-08-17                                  | Disassembler and debugger CLI.                             |
 | [x64dbg](https://x64dbg.com/)                                                                                          | GUI debugger for Windows executables.                      |
-| [XPEViewer](https://github.com/horsicq/XPEViewer) ⭐ 1,227 \| 🐛 5 \| 🌐 QMake \| 📅 2026-08-17                         | PE file viewer (headers, libraries, strings, etc).         |
+| [XPEViewer](https://github.com/horsicq/XPEViewer) ⭐ 1,226 \| 🐛 5 \| 🌐 QMake \| 📅 2026-08-18                         | PE file viewer (headers, libraries, strings, etc).         |
 
 ### Malware Analysis
 
 | Repository                                                                                                                  | Description                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | [any.run](https://any.run)                                                                                                  | Cloud-based sandbox.                                                                              |
-| [CAPA](https://github.com/mandiant/capa) ⭐ 6,141 \| 🐛 289 \| 🌐 Python \| 📅 2026-08-14                                    | Identify capabilities in executable files.                                                        |
-| [CAPEv2](https://github.com/kevoreilly/CAPEv2) ⭐ 3,430 \| 🐛 51 \| 🌐 Python \| 📅 2026-08-17                               | Self-hosted sandbox.                                                                              |
+| [CAPA](https://github.com/mandiant/capa) ⭐ 6,142 \| 🐛 291 \| 🌐 Python \| 📅 2026-08-17                                    | Identify capabilities in executable files.                                                        |
+| [CAPEv2](https://github.com/kevoreilly/CAPEv2) ⭐ 3,433 \| 🐛 52 \| 🌐 Python \| 📅 2026-08-17                               | Self-hosted sandbox.                                                                              |
 | [Cuckoo](https://cuckoosandbox.org/)                                                                                        | Self-hosted sandbox.                                                                              |
-| [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) ⭐ 11,360 \| 🐛 33 \| 🌐 JavaScript \| 📅 2026-08-17             | Detect file type and packer used for Windows executables.                                         |
+| [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) ⭐ 11,368 \| 🐛 33 \| 🌐 JavaScript \| 📅 2026-08-17             | Detect file type and packer used for Windows executables.                                         |
 | [DRAKVUF](https://github.com/CERT-Polska/drakvuf-sandbox?tab=readme-ov-file) ⭐ 1,331 \| 🐛 47 \| 🌐 Python \| 📅 2026-08-13 | Self-hosted sandbox.                                                                              |
 | [Joe's Sandbox](https://www.joesandbox.com/#windows)                                                                        | Cloud-based sandbox.                                                                              |
 | [mac-monitor](https://github.com/redcanaryco/mac-monitor) ⭐ 1,373 \| 🐛 7 \| 🌐 Swift \| 📅 2026-07-28                      | Advanced process monitoring for macOS                                                             |
-| [oletools](https://github.com/decalage2/oletools) ⭐ 3,394 \| 🐛 518 \| 🌐 Python \| 📅 2026-02-14                           | Toolkit for Microsoft Office documents (Word, Excel, etc.) to extract VBA, embedded objects, etc. |
+| [oletools](https://github.com/decalage2/oletools) ⭐ 3,395 \| 🐛 518 \| 🌐 Python \| 📅 2026-02-14                           | Toolkit for Microsoft Office documents (Word, Excel, etc.) to extract VBA, embedded objects, etc. |
 | [PEiD](https://github.com/wolfram77web/app-peid) ⭐ 341 \| 🐛 0 \| 🌐 HTML \| 📅 2017-04-10                                  | Detect packer, cryptor, and compiler used for Windows executables.                                |
 | [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)                               | Shows parent-child relationships between processes and open DLL handles.                          |
 | [Process Hacker](https://processhacker.sourceforge.io/)                                                                     | Process Explorer + more                                                                           |
@@ -365,4 +365,4 @@ Coming soon?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
