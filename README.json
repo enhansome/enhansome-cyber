@@ -1,7 +1,1966 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FlareVM",
+              "description": "Windows distribution for malware analysis and incident response.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96361940,
+                "language": "PowerShell",
+                "last_commit": "2026-06-23T01:18:45Z",
+                "owner": "mandiant",
+                "repo": "flare-vm",
+                "stars": 8957
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Operating Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-reversing",
+              "description": "A curated list of awesome reversing resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53292594,
+                "language": null,
+                "last_commit": "2023-08-19T07:30:45Z",
+                "owner": "tylerha97",
+                "repo": "awesome-reversing",
+                "stars": 4513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-hacking",
+              "description": "A list of hacking resources and tools: RE, web, forensics, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28084589,
+                "language": null,
+                "last_commit": "2024-06-02T22:40:13Z",
+                "owner": "carpedm20",
+                "repo": "awesome-hacking",
+                "stars": 16929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-osint",
+              "description": "A curated list of amazingly awesome OSINT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75189212,
+                "language": null,
+                "last_commit": "2026-08-22T17:50:41Z",
+                "owner": "jivoi",
+                "repo": "awesome-osint",
+                "stars": 28282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-pentest",
+              "description": "A collection of awesome penetration testing resources, tools and other shiny things.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22585805,
+                "language": null,
+                "last_commit": "2026-07-25T12:15:45Z",
+                "owner": "enaqx",
+                "repo": "awesome-pentest",
+                "stars": 26995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-social-engineering",
+              "description": "A curated list of awesome social engineering resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91088883,
+                "language": null,
+                "last_commit": "2023-04-05T10:31:18Z",
+                "owner": "giuliacassara",
+                "repo": "awesome-social-engineering",
+                "stars": 4244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-asset-discovery",
+              "description": "List of Awesome Asset Discovery Resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184055313,
+                "language": null,
+                "last_commit": "2025-01-22T10:48:28Z",
+                "owner": "redhuntlabs",
+                "repo": "Awesome-Asset-Discovery",
+                "stars": 2829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-incident-response",
+              "description": "A curated list of tools for incident response.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45943554,
+                "language": null,
+                "last_commit": "2026-07-15T10:58:26Z",
+                "owner": "meirwah",
+                "repo": "awesome-incident-response",
+                "stars": 9349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-red-teaming",
+              "description": "List of Awesome Red Teaming Resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104987608,
+                "language": null,
+                "last_commit": "2023-12-28T18:10:52Z",
+                "owner": "yeyintminthuhtut",
+                "repo": "Awesome-Red-Teaming",
+                "stars": 8070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-malware-analysis",
+              "description": "A curated list of awesome malware analysis tools and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35313712,
+                "language": null,
+                "last_commit": "2024-06-07T05:09:47Z",
+                "owner": "rshipp",
+                "repo": "awesome-malware-analysis",
+                "stars": 14149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-ida-x64-olly-plugin",
+              "description": "A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170707817,
+                "language": null,
+                "last_commit": "2026-02-20T23:00:49Z",
+                "owner": "fr0gger",
+                "repo": "awesome-ida-x64-olly-plugin",
+                "stars": 1586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-forensics",
+              "description": "A curated list of awesome forensic analysis tools and resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55009841,
+                "language": null,
+                "last_commit": "2026-08-23T09:53:20Z",
+                "owner": "cugu",
+                "repo": "awesome-forensics",
+                "stars": 5163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-pcaptools",
+              "description": "Tools for PCAP files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4415789,
+                "language": null,
+                "last_commit": "2025-09-03T07:24:40Z",
+                "owner": "caesar0301",
+                "repo": "awesome-pcaptools",
+                "stars": 3415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-windows-post-exploitation",
+              "description": "Windows post-exploitation tools, resources, techniques and commands to use during post-exploitation phase of penetration test.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111175799,
+                "language": null,
+                "last_commit": "2025-09-07T21:39:52Z",
+                "owner": "emilyanncr",
+                "repo": "Windows-Post-Exploitation",
+                "stars": 543
+              }
+            }
+          ],
+          "description": "This repository is just a brief (and generalized) list of resources and tools for both sides of cyber: blue and red team operations. As such, this is not meant to be in-depth resources. If you are looking for more specific information and/or tools, this contains a list of resource collections.",
+          "node_type": "group",
+          "title": "Other awesome-Collections"
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amsi-Bypass-PowerShell",
+              "description": "AMSI bypasses (most are patched, but can be obfuscated to bypass).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186556114,
+                "language": null,
+                "last_commit": "2024-11-28T10:31:15Z",
+                "owner": "S3cur3Th1sSh1t",
+                "repo": "Amsi-Bypass-Powershell",
+                "stars": 2190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AMSITrigger",
+              "description": "Finds which string(s) trigger AMSI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267274470,
+                "language": "C#",
+                "last_commit": "2025-05-13T21:32:43Z",
+                "owner": "RythmStick",
+                "repo": "AMSITrigger",
+                "stars": 1414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chameleon",
+              "description": "PowerShell script obfuscator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360163114,
+                "language": "Python",
+                "last_commit": "2023-11-02T13:09:28Z",
+                "owner": "klezVirus",
+                "repo": "chameleon",
+                "stars": 605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Invisi-Shell",
+              "description": "Used to bypass PowerShell security (logging, AMSI, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153028480,
+                "language": "C++",
+                "last_commit": "2019-08-19T19:55:19Z",
+                "owner": "OmerYa",
+                "repo": "Invisi-Shell",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Invoke-Stealth",
+              "description": "PowerShell script obfuscator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357511242,
+                "language": "PowerShell",
+                "last_commit": "2025-05-13T19:36:09Z",
+                "owner": "JoelGMSec",
+                "repo": "Invoke-Stealth",
+                "stars": 596
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Defense Evasion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cloudmare",
+              "description": "Cloudflare, Sucuri, Incapsula real IP tracker.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 122543870,
+                "language": "Python",
+                "last_commit": "2023-07-25T03:01:50Z",
+                "owner": "mrh0wl",
+                "repo": "Cloudmare",
+                "stars": 1784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recon-NG",
+              "description": "Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178254323,
+                "language": "Python",
+                "last_commit": "2024-11-01T20:11:51Z",
+                "owner": "lanmaster53",
+                "repo": "recon-ng",
+                "stars": 5866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScrapeIn",
+              "description": "Scrapes LinkedIn to create a list of employee email addresses (for use in Initial Access).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 551764977,
+                "language": "Python",
+                "last_commit": "2022-12-26T04:45:05Z",
+                "owner": "landoncrabtree",
+                "repo": "ScrapeIn",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TheHarvester",
+              "description": "Collects names, emails, IPs, and subdomains of a target.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212922,
+                "language": "Python",
+                "last_commit": "2026-08-24T02:20:49Z",
+                "owner": "laramies",
+                "repo": "theHarvester",
+                "stars": 17180
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OSINT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "altdns",
+              "description": "Subdomain enumeration using mutated wordlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56279389,
+                "language": "Python",
+                "last_commit": "2025-01-09T04:24:27Z",
+                "owner": "infosec-au",
+                "repo": "altdns",
+                "stars": 2504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWSBucketDump",
+              "description": "Enumerate AWS S3 buckets to find interesting files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95813533,
+                "language": "Python",
+                "last_commit": "2024-04-10T06:15:23Z",
+                "owner": "jordanpotti",
+                "repo": "AWSBucketDump",
+                "stars": 1473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CameRadar",
+              "description": "Cameradar hacks its way into RTSP videosurveillance cameraa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59289480,
+                "language": "Go",
+                "last_commit": "2026-08-18T09:49:53Z",
+                "owner": "Ullaakut",
+                "repo": "cameradar",
+                "stars": 5169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudBrute",
+              "description": "Enumerates \"the cloud\" (Google, AWS, DigitalOcean, etc) to find infrastructure, files, and apps for a given target.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294051203,
+                "language": "Go",
+                "last_commit": "2025-03-09T17:48:52Z",
+                "owner": "0xsha",
+                "repo": "CloudBrute",
+                "stars": 1145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "feroxbuster",
+              "description": "Web application directory / file fuzzer to find other pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289516116,
+                "language": "Rust",
+                "last_commit": "2026-04-15T12:31:40Z",
+                "owner": "epi052",
+                "repo": "feroxbuster",
+                "stars": 8031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gobuster",
+              "description": "Web application directory / file fuzzer to find other pages, and support for DNS and vhost fuzzing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26639347,
+                "language": "Go",
+                "last_commit": "2026-08-17T22:02:56Z",
+                "owner": "OJ",
+                "repo": "gobuster",
+                "stars": 14020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoWitness",
+              "description": "Screenshots webpages. Supports multi-domain lists and Nmap output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108967484,
+                "language": "Go",
+                "last_commit": "2026-04-22T17:28:09Z",
+                "owner": "sensepost",
+                "repo": "gowitness",
+                "stars": 4486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Masscan",
+              "description": "Like nmap, but faster (thus, not stealthy.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11715753,
+                "language": "C",
+                "last_commit": "2026-04-23T20:34:38Z",
+                "owner": "robertdavidgraham",
+                "repo": "masscan",
+                "stars": 25944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nikto",
+              "description": "Web server scanner to perform security checks on a web server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6836299,
+                "language": "Perl",
+                "last_commit": "2026-08-18T04:01:08Z",
+                "owner": "sullo",
+                "repo": "nikto",
+                "stars": 10677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raccoon",
+              "description": "All-in-one reconaissance. port/service scans, dirbusting, and web application retrieval.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133257682,
+                "language": "Python",
+                "last_commit": "2026-04-21T21:23:15Z",
+                "owner": "evyatarmeged",
+                "repo": "Raccoon",
+                "stars": 3998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recon-NG",
+              "description": "Reconaissance and OSINT framework. Has many modules such as port scanning, subdomain finding, Shodan, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178254323,
+                "language": "Python",
+                "last_commit": "2024-11-01T20:11:51Z",
+                "owner": "lanmaster53",
+                "repo": "recon-ng",
+                "stars": 5866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "subfinder",
+              "description": "Passive subdomain discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127519518,
+                "language": "Go",
+                "last_commit": "2026-08-22T18:49:23Z",
+                "owner": "projectdiscovery",
+                "repo": "subfinder",
+                "stars": 14289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wpscan",
+              "description": "Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4994614,
+                "language": "Ruby",
+                "last_commit": "2026-08-20T09:03:17Z",
+                "owner": "wpscanteam",
+                "repo": "wpscan",
+                "stars": 9736
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reconaissance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "evilginx",
+              "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140412864,
+                "language": "Go",
+                "last_commit": "2026-06-10T12:12:03Z",
+                "owner": "kgretzky",
+                "repo": "evilginx2",
+                "stars": 15526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Social Engineering Toolkit",
+              "description": "Social engineering framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7391261,
+                "language": "Python",
+                "last_commit": "2026-06-04T21:23:34Z",
+                "owner": "trustedsec",
+                "repo": "social-engineer-toolkit",
+                "stars": 15227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zphisher",
+              "description": "Phishing campaign framework to compromise user credentials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223953992,
+                "language": "HTML",
+                "last_commit": "2024-08-21T08:14:42Z",
+                "owner": "htr-tech",
+                "repo": "zphisher",
+                "stars": 16683
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social Engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arachni",
+              "description": "Web Application Security Scanner Framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 861781,
+                "language": "Ruby",
+                "last_commit": "2026-04-22T10:43:49Z",
+                "owner": "Arachni",
+                "repo": "arachni",
+                "stars": 4039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dotGit",
+              "description": "A Firefox and Chrome extension that shows you if there is an exposed directory",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207886738,
+                "language": "JavaScript",
+                "last_commit": "2026-07-31T16:07:14Z",
+                "owner": "davtur19",
+                "repo": "DotGit",
+                "stars": 481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "feroxbuster",
+              "description": "Web application directory/file fuzzer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289516116,
+                "language": "Rust",
+                "last_commit": "2026-04-15T12:31:40Z",
+                "owner": "epi052",
+                "repo": "feroxbuster",
+                "stars": 8031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flask-unsign",
+              "description": "Decode, bruteforce, and craft Flask session tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167678310,
+                "language": "Python",
+                "last_commit": "2024-12-03T21:22:11Z",
+                "owner": "Paradoxis",
+                "repo": "Flask-Unsign",
+                "stars": 660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gobuster",
+              "description": "Web application directory/file/DNS/vhost fuzzing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26639347,
+                "language": "Go",
+                "last_commit": "2026-08-17T22:02:56Z",
+                "owner": "OJ",
+                "repo": "gobuster",
+                "stars": 14020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nikto",
+              "description": "Web server scanner to perform security checks on a web server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6836299,
+                "language": "Perl",
+                "last_commit": "2026-08-18T04:01:08Z",
+                "owner": "sullo",
+                "repo": "nikto",
+                "stars": 10677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nosqlmap",
+              "description": "Performs automated NoSQL injection tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13067823,
+                "language": "Python",
+                "last_commit": "2026-07-28T02:28:11Z",
+                "owner": "codingo",
+                "repo": "NoSQLMap",
+                "stars": 3345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PayloadsAllTheThings",
+              "description": "Useful payloads for a variety of attacks such as SQLi, IDOR, XSS, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71220757,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:38:47Z",
+                "owner": "swisskyrepo",
+                "repo": "PayloadsAllTheThings",
+                "stars": 80323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sqlmap",
+              "description": "Performs automated SQL injection tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4793392,
+                "language": "Python",
+                "last_commit": "2026-08-23T15:35:59Z",
+                "owner": "sqlmapproject",
+                "repo": "sqlmap",
+                "stars": 38255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wpscan",
+              "description": "Automatic WordPress scanner to identify information about a WordPress site and possible vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4994614,
+                "language": "Ruby",
+                "last_commit": "2026-08-20T09:03:17Z",
+                "owner": "wpscanteam",
+                "repo": "wpscan",
+                "stars": 9736
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Exploitation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reaver",
+              "description": "Reaver implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33783491,
+                "language": "C",
+                "last_commit": "2025-10-31T19:12:03Z",
+                "owner": "t6x",
+                "repo": "reaver-wps-fork-t6x",
+                "stars": 1980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WifiPhisher",
+              "description": "The Rogue Access Point Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24499174,
+                "language": "Python",
+                "last_commit": "2026-05-22T17:42:02Z",
+                "owner": "wifiphisher",
+                "repo": "wifiphisher",
+                "stars": 14781
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wireless"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Easysploit",
+              "description": "Automatic Metasploit payload generator and shell listener.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143855621,
+                "language": "Shell",
+                "last_commit": "2020-01-29T20:26:18Z",
+                "owner": "KALILINUXTRICKSYT",
+                "repo": "easysploit",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impacket",
+              "description": "A tool to perform Kerberos pre-auth bruteforcing (ASREP roast) via GetNPUsers.py",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33997353,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:52:39Z",
+                "owner": "fortra",
+                "repo": "impacket",
+                "stars": 16029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kerbrute",
+              "description": "A tool to perform Kerberos pre-auth bruteforcing (ASREP roast)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168977645,
+                "language": "Go",
+                "last_commit": "2024-08-20T10:56:06Z",
+                "owner": "ropnop",
+                "repo": "kerbrute",
+                "stars": 3428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Medusa",
+              "description": "Bruteforcer with multiple protocol support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36410494,
+                "language": "C",
+                "last_commit": "2025-05-14T01:17:52Z",
+                "owner": "jmk-foofus",
+                "repo": "medusa",
+                "stars": 883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metasploit",
+              "description": "Exploit framework that can be used for intial access and/or post-exploitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2293158,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T13:11:53Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NetExec",
+              "description": "Bruteforce common Windows protocols (WinRM, LDAP, RDP, SMB, WMI, etc.). Try username and password for unauthenticated access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 689013903,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:00:25Z",
+                "owner": "Pennyw0rth",
+                "repo": "NetExec",
+                "stars": 5809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TeamFiltration",
+              "description": "Cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508097028,
+                "language": "C#",
+                "last_commit": "2026-03-09T08:53:43Z",
+                "owner": "Flangvik",
+                "repo": "TeamFiltration",
+                "stars": 1399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "THC-Hydra",
+              "description": "Bruteforcer with multiple protocol support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19112091,
+                "language": "C",
+                "last_commit": "2026-07-30T10:11:35Z",
+                "owner": "vanhauser-thc",
+                "repo": "thc-hydra",
+                "stars": 12189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TREVORspray",
+              "description": "Advanced password spraying tool for Active Directory environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293375616,
+                "language": "Python",
+                "last_commit": "2026-05-21T23:45:37Z",
+                "owner": "blacklanternsecurity",
+                "repo": "TREVORspray",
+                "stars": 1378
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Initial Access"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pupy",
+              "description": "Python and C C2 framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 42882329,
+                "language": "Python",
+                "last_commit": "2024-03-22T08:52:53Z",
+                "owner": "n1nj4sec",
+                "repo": "pupy",
+                "stars": 8999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sliver",
+              "description": "Go C2 framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166304026,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:45:22Z",
+                "owner": "BishopFox",
+                "repo": "sliver",
+                "stars": 11721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Villain",
+              "description": "Python and Powershell C2 framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 557545904,
+                "language": "Python",
+                "last_commit": "2025-05-21T10:49:04Z",
+                "owner": "t3l3machus",
+                "repo": "Villain",
+                "stars": 4437
+              }
+            }
+          ],
+          "description": "C2 frameworks can be considered both initial access and post-exploitation, as they generate payloads to be used in phishing campaigns (initial access) and will provide access to the host machine when ran (post exploitation).",
+          "node_type": "group",
+          "title": "C2 Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BloodHound",
+              "description": "Active Directory visualizer, useful for finding misconfigurations and/or shortest path to Domain Admin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56452110,
+                "language": "PowerShell",
+                "last_commit": "2026-03-02T18:29:31Z",
+                "owner": "SpecterOps",
+                "repo": "BloodHound-Legacy",
+                "stars": 10605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BloodHound.py",
+              "description": "Remote Python data ingestor for BloodHound.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122983325,
+                "language": "Python",
+                "last_commit": "2025-10-24T12:11:26Z",
+                "owner": "dirkjanm",
+                "repo": "BloodHound.py",
+                "stars": 2433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impacket",
+              "description": "A collection of Python scripts useful for Windows targets: psexec, smbexec, kerberoasting, ticket attacks, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33997353,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:52:39Z",
+                "owner": "fortra",
+                "repo": "impacket",
+                "stars": 16029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mimikatz",
+              "description": "Mimikatz is both an exploit on Microsoft Windows that extracts passwords stored in memory and software that performs that exploit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63964981,
+                "language": "YARA",
+                "last_commit": "2024-06-28T07:51:05Z",
+                "owner": "ParrotSec",
+                "repo": "mimikatz",
+                "stars": 2626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nishang",
+              "description": "Offensive PowerShell for red team, penetration testing and offensive security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19939837,
+                "language": "PowerShell",
+                "last_commit": "2024-04-25T19:39:44Z",
+                "owner": "samratashok",
+                "repo": "nishang",
+                "stars": 10064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PowerHub",
+              "description": "Post-exploitation module for bypassing endpoint protection and running arbitrary files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142741112,
+                "language": "PowerShell",
+                "last_commit": "2026-05-01T15:56:37Z",
+                "owner": "AdrianVollmer",
+                "repo": "PowerHub",
+                "stars": 831
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PowerSploit",
+              "description": "A PowerShell post-exploitation framework with many modules: exfiltration, privelege escalation, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88993976,
+                "language": "PowerShell",
+                "last_commit": "2022-12-27T19:27:22Z",
+                "owner": "AdrianVollmer",
+                "repo": "PowerSploit",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SharpHound",
+              "description": "C# data ingestor for BloodHound. (Recommend SharpHound.ps1 for Bloodhound Kali version)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385323486,
+                "language": "C#",
+                "last_commit": "2026-08-11T15:22:06Z",
+                "owner": "SpecterOps",
+                "repo": "SharpHound",
+                "stars": 1332
+              }
+            }
+          ],
+          "description": "Modules for lateral movement, exfiltration, system enumeration, and more.",
+          "node_type": "group",
+          "title": "Post Exploitation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BeRoot",
+              "description": "Automated Windows, Linux, and Mac privilege escalation path discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88267073,
+                "language": "Python",
+                "last_commit": "2024-10-04T11:54:01Z",
+                "owner": "AlessandroZ",
+                "repo": "BeRoot",
+                "stars": 2619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Invoke-PrivescCheck",
+              "description": "Automated Windows privilege escalation path discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234315083,
+                "language": "PowerShell",
+                "last_commit": "2026-08-19T13:07:45Z",
+                "owner": "itm4n",
+                "repo": "PrivescCheck",
+                "stars": 3923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PEASS-ng",
+              "description": "Automated Windows, Linux, and Mac privilege escalation path discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165548191,
+                "language": "C#",
+                "last_commit": "2026-08-24T11:24:17Z",
+                "owner": "peass-ng",
+                "repo": "PEASS-ng",
+                "stars": 20366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PowerUp",
+              "description": "Automated Windows privilege escalation path discovery tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4456049,
+                "language": "PowerShell",
+                "last_commit": "2020-08-17T23:19:49Z",
+                "owner": "PowerShellMafia",
+                "repo": "PowerSploit",
+                "stars": 13086
+              }
+            }
+          ],
+          "description": "These tools automatically enumerate current user privileges and try to find misconfigurations that would allow escalation to and/or .",
+          "node_type": "group",
+          "title": "Privilege Escalation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DNSExfiltrator",
+              "description": "Data exfiltration over DNS request covert channel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114893291,
+                "language": "JavaScript",
+                "last_commit": "2024-04-29T20:20:43Z",
+                "owner": "Arno0x",
+                "repo": "DNSExfiltrator",
+                "stars": 884
+              }
+            }
+          ],
+          "description": "Data exfiltration",
+          "node_type": "group",
+          "title": "Exfiltration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "certsync",
+              "description": "Dump NTDS with golden certificates and UnPAC the hash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595679998,
+                "language": "Python",
+                "last_commit": "2024-03-20T10:58:15Z",
+                "owner": "zblurx",
+                "repo": "certsync",
+                "stars": 650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dumpert",
+              "description": "LSASS memory dumper using direct system calls and API unhooking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192397590,
+                "language": "C",
+                "last_commit": "2021-01-05T08:58:26Z",
+                "owner": "outflanknl",
+                "repo": "Dumpert",
+                "stars": 1595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impacket",
+              "description": "Dump domain credentials via DCSync or from NTDS.DIT/SAM with secretsdump.py.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33997353,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:52:39Z",
+                "owner": "fortra",
+                "repo": "impacket",
+                "stars": 16029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mimikatz",
+              "description": "Dump local and domain credentials with sekurlsa, lsadump modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63964981,
+                "language": "YARA",
+                "last_commit": "2024-06-28T07:51:05Z",
+                "owner": "ParrotSec",
+                "repo": "mimikatz",
+                "stars": 2626
+              }
+            }
+          ],
+          "description": "These tools help dump cached credentials from a system.",
+          "node_type": "group",
+          "title": "Credential Dumping"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CeWL",
+              "description": "Scrape websites to generate wordlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56852742,
+                "language": "Ruby",
+                "last_commit": "2026-06-24T10:13:52Z",
+                "owner": "digininja",
+                "repo": "CeWL",
+                "stars": 2795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crunch",
+              "description": "Generate wordlists based on requirements such as minimum and maximum length, character sets, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68676588,
+                "language": "C",
+                "last_commit": "2016-09-20T05:31:37Z",
+                "owner": "jim3ma",
+                "repo": "crunch",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cupp",
+              "description": "Utilize OSINT to create password candidates for a specific person.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4241751,
+                "language": "Python",
+                "last_commit": "2026-07-17T23:57:44Z",
+                "owner": "Mebus",
+                "repo": "cupp",
+                "stars": 6504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mentalist",
+              "description": "A GUI for wordlist generation based on rules such as appending, prepending, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109614205,
+                "language": "Python",
+                "last_commit": "2026-04-14T01:50:33Z",
+                "owner": "sc0tfree",
+                "repo": "mentalist",
+                "stars": 2021
+              }
+            }
+          ],
+          "description": "These tools assist in uncovering passwords, whether it be for a hash or for password spraying attempts.",
+          "node_type": "group",
+          "title": "Password Cracking"
+        }
+      ],
+      "title": "Red Team"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Angle-Grinder",
+              "description": "Parse, aggregate, sum, average, min/max, percentile, and sort log files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123365228,
+                "language": "Rust",
+                "last_commit": "2026-02-05T19:11:45Z",
+                "owner": "rcoh",
+                "repo": "angle-grinder",
+                "stars": 3752
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autopsy",
+              "description": "Investigate disk images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2516243,
+                "language": "Java",
+                "last_commit": "2026-06-20T05:43:47Z",
+                "owner": "sleuthkit",
+                "repo": "autopsy",
+                "stars": 3292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chainsaw",
+              "description": "Parse and threat hunt Windows EVTX files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395658506,
+                "language": "Rust",
+                "last_commit": "2026-08-19T19:29:57Z",
+                "owner": "WithSecureLabs",
+                "repo": "chainsaw",
+                "stars": 3644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magika",
+              "description": "Detect file content types with deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681566005,
+                "language": "Python",
+                "last_commit": "2026-08-21T18:20:00Z",
+                "owner": "google",
+                "repo": "magika",
+                "stars": 17971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Velociraptor",
+              "description": "Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126576769,
+                "language": "Go",
+                "last_commit": "2026-08-20T23:59:35Z",
+                "owner": "Velocidex",
+                "repo": "velociraptor",
+                "stars": 4197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volatility",
+              "description": "Analyze memory dump files.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19114225,
+                "language": "Python",
+                "last_commit": "2025-05-16T13:40:55Z",
+                "owner": "volatilityfoundation",
+                "repo": "volatility",
+                "stars": 8060
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Forensics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cfxc-deobf",
+              "description": "ConfuserEx unpacker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99346941,
+                "language": "C#",
+                "last_commit": "2017-08-04T13:47:28Z",
+                "owner": "wildcardc",
+                "repo": "cfxc-deobf",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "de4dot-cex",
+              "description": "ConfuserEx unpacker.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 126617169,
+                "language": "C#",
+                "last_commit": "2020-03-09T17:00:18Z",
+                "owner": "ViRb3",
+                "repo": "de4dot-cex",
+                "stars": 575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "de4dot",
+              "description": ".NET deobfuscator and unpacker.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2419727,
+                "language": "C#",
+                "last_commit": "2020-08-29T08:14:56Z",
+                "owner": "de4dot",
+                "repo": "de4dot",
+                "stars": 7433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FLOSS",
+              "description": "Automatically extract obfuscated strings from malware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52993349,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:09:09Z",
+                "owner": "mandiant",
+                "repo": "flare-floss",
+                "stars": 4132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NoFuserEx",
+              "description": "ConfuserEx unpacker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66470119,
+                "language": "C#",
+                "last_commit": "2025-11-27T23:29:04Z",
+                "owner": "undebel",
+                "repo": "NoFuserEx",
+                "stars": 425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Packer-specific Unpackers",
+              "description": "List of unpackers for specific packers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259618041,
+                "language": null,
+                "last_commit": "2025-02-01T10:33:16Z",
+                "owner": "NotPrab",
+                "repo": ".NET-Deobfuscator",
+                "stars": 1513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSDecode",
+              "description": "PowerShell deobfuscator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113802720,
+                "language": "PowerShell",
+                "last_commit": "2021-02-04T23:55:55Z",
+                "owner": "R3MRUM",
+                "repo": "PSDecode",
+                "stars": 437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UnconfuserExTools",
+              "description": "ConfuserEx deobfuscation toolkit (old).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506838555,
+                "language": null,
+                "last_commit": "2025-09-18T04:18:04Z",
+                "owner": "landoncrabtree",
+                "repo": "UnconfuserExTools",
+                "stars": 83
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deobfuscation & Unpacking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-ida-x64-olly-plugin",
+              "description": "A list of plugins for IDA, Ghidra, GDB, OllyDBG, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170707817,
+                "language": null,
+                "last_commit": "2026-02-20T23:00:49Z",
+                "owner": "fr0gger",
+                "repo": "awesome-ida-x64-olly-plugin",
+                "stars": 1586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cerberus",
+              "description": "Unstrips Rust and Go binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582836524,
+                "language": "C++",
+                "last_commit": "2025-01-25T17:49:42Z",
+                "owner": "h311d1n3r",
+                "repo": "Cerberus",
+                "stars": 408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cutter",
+              "description": "Decompiler, disassembler, and debugger GUI based on Rizin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104732438,
+                "language": "C++",
+                "last_commit": "2026-08-22T19:13:16Z",
+                "owner": "rizinorg",
+                "repo": "cutter",
+                "stars": 19559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dnSpy",
+              "description": ".NET debugger and editor.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38380854,
+                "language": "C#",
+                "last_commit": "2020-12-20T23:55:15Z",
+                "owner": "dnSpy",
+                "repo": "dnSpy",
+                "stars": 29687
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GEF",
+              "description": "GDB addon with advanced features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32955140,
+                "language": "Python",
+                "last_commit": "2026-08-20T21:35:23Z",
+                "owner": "hugsy",
+                "repo": "gef",
+                "stars": 8324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ghidra",
+              "description": "Decompiler and disassembler GUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173228436,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:41:59Z",
+                "owner": "NationalSecurityAgency",
+                "repo": "ghidra",
+                "stars": 72739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JADX",
+              "description": "JAR, APK, DEX, AAR, AAB, and ZIP decompiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8859474,
+                "language": "Java",
+                "last_commit": "2026-08-19T18:52:12Z",
+                "owner": "skylot",
+                "repo": "jadx",
+                "stars": 50181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pycdc",
+              "description": "Decompile .pyc files into Python source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2408045,
+                "language": "C++",
+                "last_commit": "2026-04-07T05:58:13Z",
+                "owner": "zrax",
+                "repo": "pycdc",
+                "stars": 4590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyinstxtractor",
+              "description": "Extract .pyc files from PyInstaller compiled executables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249959615,
+                "language": "Python",
+                "last_commit": "2026-07-22T09:09:38Z",
+                "owner": "extremecoders-re",
+                "repo": "pyinstxtractor",
+                "stars": 4445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redress",
+              "description": "Analyzes stripped Go binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197746521,
+                "language": "Go",
+                "last_commit": "2026-08-20T08:02:54Z",
+                "owner": "goretk",
+                "repo": "redress",
+                "stars": 1185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rizin",
+              "description": "Disassembler and debugger CLI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299867499,
+                "language": "C",
+                "last_commit": "2026-08-23T17:21:32Z",
+                "owner": "rizinorg",
+                "repo": "rizin",
+                "stars": 3799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XPEViewer",
+              "description": "PE file viewer (headers, libraries, strings, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213965467,
+                "language": "QMake",
+                "last_commit": "2026-08-23T22:55:33Z",
+                "owner": "horsicq",
+                "repo": "XPEViewer",
+                "stars": 1229
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reverse Engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CAPA",
+              "description": "Identify capabilities in executable files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272815213,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:52:38Z",
+                "owner": "mandiant",
+                "repo": "capa",
+                "stars": 6154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CAPEv2",
+              "description": "Self-hosted sandbox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215366713,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:43:49Z",
+                "owner": "kevoreilly",
+                "repo": "CAPEv2",
+                "stars": 3442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Detect-It-Easy",
+              "description": "Detect file type and packer used for Windows executables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20387062,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T22:40:41Z",
+                "owner": "horsicq",
+                "repo": "Detect-It-Easy",
+                "stars": 11403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DRAKVUF",
+              "description": "Self-hosted sandbox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248540269,
+                "language": "Python",
+                "last_commit": "2026-08-19T15:52:18Z",
+                "owner": "CERT-Polska",
+                "repo": "drakvuf-sandbox",
+                "stars": 1333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mac-monitor",
+              "description": "Advanced process monitoring for macOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614452756,
+                "language": "Swift",
+                "last_commit": "2026-07-28T20:37:27Z",
+                "owner": "Brandon7CC",
+                "repo": "mac-monitor",
+                "stars": 1375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oletools",
+              "description": "Toolkit for Microsoft Office documents (Word, Excel, etc.) to extract VBA, embedded objects, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59367670,
+                "language": "Python",
+                "last_commit": "2026-02-14T19:42:44Z",
+                "owner": "decalage2",
+                "repo": "oletools",
+                "stars": 3401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PEiD",
+              "description": "Detect packer, cryptor, and compiler used for Windows executables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87847499,
+                "language": "HTML",
+                "last_commit": "2017-04-10T19:04:41Z",
+                "owner": "wolfram77web",
+                "repo": "app-peid",
+                "stars": 341
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Malware Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BLUESPAWN",
+              "description": "An Active Defense and EDR software to empower Blue Teams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189113067,
+                "language": "C++",
+                "last_commit": "2026-03-31T02:20:14Z",
+                "owner": "ION28",
+                "repo": "BLUESPAWN",
+                "stars": 1333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HardeningKitty",
+              "description": "HardeningKitty and Windows Hardening settings and configurations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107935946,
+                "language": "PowerShell",
+                "last_commit": "2026-08-21T15:02:04Z",
+                "owner": "0x6d69636b",
+                "repo": "windows_hardening",
+                "stars": 2655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SteamRoller",
+              "description": "Automating basic security configurations across an Active Directory environment",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 553809120,
+                "language": "PowerShell",
+                "last_commit": "2024-11-21T16:54:15Z",
+                "owner": "Msfv3n0m",
+                "repo": "SteamRoller",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hardening"
+        }
+      ],
+      "title": "Blue Team"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:49:59.818Z",
+    "last_updated": "2026-08-24T14:31:13.807Z",
     "original_repository": "landoncrabtree/awesome-cyber",
     "original_repository_id": 571346954,
     "original_repository_sha": "f97ea1afb27aac12fc67265396e7ff697d72bbe5",
